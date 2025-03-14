@@ -24,7 +24,7 @@ With **fast-paced combat, quirky humor, and a heartwarming message about the pow
 ## 👥 Team Members  
 - Emily (Artist / Producer)<br/>  
 - Markus (Composer / Sound Designer)<br/>   
-- Nook Pawanrat Santiyanon (Unity Developer) [Pawanrat Santiyanon](https://www.linkedin.com/in/pawanrat-santiyanon/)<br/>   
+- [Pawanrat Santiyanon (Unity Developer)](https://www.linkedin.com/in/pawanrat-santiyanon/)<br/>   
 - Suyang (Artist / Game Designer)<br/>  
 - Tommy (Artist)<br/> 
 
